@@ -31,8 +31,10 @@ Optional GPU support for faster model inference
 
 1.) Clone the repository
 
-git clone https://github.com/<your-username>/MedicalRAG.git
+git clone https://github.com/ashish39403/MedicalRAG.git
+
 cd MedicalRAG
+
 
 2.) Build the docker image
 
